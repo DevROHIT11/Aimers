@@ -9,4 +9,4 @@ An gamified educational platform for underprivileged students !!
 
 ## The site is live at - https://devrohit11.github.io/Aimers/index.html
 
->>>>>>> 6d8049075a1d729ee7a060b1a4a287b6161f1f20
+
